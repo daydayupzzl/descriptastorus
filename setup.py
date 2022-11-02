@@ -77,7 +77,7 @@ setup(
     author="Brian Kelley",
     author_email="bkelley@relaytx.com",
     url="git@github.com:bp-kelley/descriptastorus.git",
-    install_requires=["pandas_flavor", "rdkit"],
+    install_requires=["pandas_flavor"],
     test_suite="nose.collector",
     tests_require=["nose", "pandas_flavor"],
     include_package_data=True,
